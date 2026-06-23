@@ -30,6 +30,9 @@ A continuación se adjunta la captura de la consola de administración donde se 
 
 <img width="1912" height="1080" alt="pinecone-dashboard" src="https://github.com/user-attachments/assets/738b16c0-7d90-423b-825f-435e3e9144c9" />
 
+<img width="1911" height="1080" alt="pinecone-indexes" src="https://github.com/user-attachments/assets/d0104a61-31ea-4af3-9345-15e6efae33ce" />
+
+
 
 ### 3. Recuperación e Integración de la Cadena (RAG)
 *   Configuración del componente `Retriever` en LangChain conectado al índice en la nube (`mastercard-rag`).

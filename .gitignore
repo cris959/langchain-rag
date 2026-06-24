@@ -1,0 +1,25 @@
+# Entorno Virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Variables de entorno y credenciales (¡Súper importante!)
+.env
+.env.local
+
+# Archivos temporales de Python y caché
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Sistema Operativo y editores
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Datos locales del pipeline (Opcional)
+# Si en algún momento guardás el índice de FAISS en disco, descomentá la línea de abajo:
+# faiss_index/

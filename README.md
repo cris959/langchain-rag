@@ -70,10 +70,15 @@ LANGSMITH_PROJECT="clase-04-rag-local"
 Antes de correr el script, el servidor local de Ollama debe tener descargados ambos modelos corriendo los comandos:
 
 ```Bash
+<<<<<<< Updated upstream
 ollama pull llama3.2:1b
 ollama pull gemma3:4b
 ollama pull bge-m3
 ollama pull bge-m3:567m
+=======
+ollama pull bge-m3
+ollama pull gemma3:4b
+>>>>>>> Stashed changes
 ```
 
 2- Ejecutar el Script:

@@ -70,15 +70,10 @@ LANGSMITH_PROJECT="clase-04-rag-local"
 Antes de correr el script, el servidor local de Ollama debe tener descargados ambos modelos corriendo los comandos:
 
 ```Bash
-<<<<<<< Updated upstream
 ollama pull llama3.2:1b
 ollama pull gemma3:4b
 ollama pull bge-m3
 ollama pull bge-m3:567m
-=======
-ollama pull bge-m3
-ollama pull gemma3:4b
->>>>>>> Stashed changes
 ```
 
 2- Ejecutar el Script:
@@ -93,12 +88,12 @@ Para validar el comportamiento de la arquitectura LCEL y comprobar los tiempos d
 ### 1. Historial de Ejecuciones del Proyecto
 Muestra el registro de cada llamada realizada desde la terminal de VS Code, el estado de éxito de la cadena y la latencia total del proceso RAG.
 ___
-![alt text](langsmith_dashboard.png)
+![dashboard langsmith](imagenes/langsmith_dashboard.png)
 
 ### 2. Configuración de la API Key
 Interfaz dentro del menú *Settings > API Keys* donde se generan y administran los tokens de acceso seguros necesarios para vincular el archivo `.env` con la plataforma.
 ___
-![alt text](langsmith_apikey.png)
+![apikey langsmith](imagenes/langsmith_apikey.png)
 ___
 ## 📝 Licencia
 

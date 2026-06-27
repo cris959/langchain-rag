@@ -39,7 +39,7 @@ Si deseas utilizar la aplicación localmente en tu entorno de desarrollo sin las
    git checkout proyecto-final
    ```
 
-   💡 **¿No tenés un archivo a mano?** Podés descargar nuestro [Dataset de Prueba de Ejemplo](./data/datos_ejemplo.csv) directamente desde este repositorio para probar todas las funciones de la app (incluyendo métricas de tiempo de entrega y clima).
+   💡 **¿No tenés un archivo a mano?** Descargá nuestro [Dataset de Prueba de Ejemplo](https://github.com/cris959/langchain-rag/raw/refs/heads/proyecto-final/data/datos_ejemplo.csv) (Clic derecho y "Guardar enlace como...") para probar todas las funciones de la app.
 ___
 1- Crear y activar el entorno virtual:
 

@@ -41,6 +41,8 @@ secrets.toml
 *.json
 *.sqlite
 *.db
+# EXCEPCIÓN: Permitir explícitamente el CSV de muestra para el proyecto final
+!data/datos_ejemplo.csv
 
 # --- Configuración de IDEs (VS Code y PyCharm) ---
 .vscode/

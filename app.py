@@ -87,7 +87,7 @@ archivo_cargado = st.file_uploader("Selecciona un archivo CSV", type="csv", labe
 
 if archivo_cargado:
     # CAPA EXTRA: CONTROL DE TAMAÑO DEL ARCHIVO (Máximo 5MB)
-    MAX_FILE_SIZE_MB = 5
+    MAX_FILE_SIZE_MB = 10
     if archivo_cargado.size > MAX_FILE_SIZE_MB * 1024 * 1024:
         st.error(f"❌ El archivo excede el límite máximo de {MAX_FILE_SIZE_MB}MB permitido en la versión pública.")
         st.stop()

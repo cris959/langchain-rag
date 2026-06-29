@@ -54,6 +54,6 @@ Nota de Seguridad: Las credenciales y claves de acceso (**PINECONE_API_KEY**; **
 ___
 ## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](https://github.com/cris959/langchain-rag/blob/main/LICENSE) adjunto en este repositorio.
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](https://github.com/cris959/langchain-rag/blob/main/LICENSE.txt) adjunto en este repositorio.
 
 Copyright © 2026 [Christian Garay](https://github.com//cris959/langchain-rag) - Backend Developer.

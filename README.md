@@ -68,5 +68,5 @@ ___
 ## 📝 Licencia
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](https://github.com/cris959/langchain-rag/blob/main/LICENSE) adjunto en este repositorio.
 
-Copyright © 2026 [Christian Garay](https://github.com//cris959/langchain-rag) - Backend Developer.
+Copyright © 2026 [Christian Garay](https://github.com/cris959/langchain-rag/blob/main/LICENSE.txt) - Backend Developer.
  

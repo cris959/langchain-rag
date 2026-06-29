@@ -82,6 +82,6 @@ python rag.py
 El sistema desplegará en la consola las 5 perspectivas limpias procesadas por el rewriter antes de consolidar la respuesta final estructurada extraída de la base de datos vectorial.
 
 ## 📝 Licencia
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](https://github.com/cris959/langchain-rag/blob/main/LICENSE) adjunto en este repositorio.
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](https://github.com/cris959/langchain-rag/blob/main/LICENSE.txt) adjunto en este repositorio.
 
 Copyright © 2026 [Christian Garay](https://github.com//cris959/langchain-rag) - Backend Developer.
